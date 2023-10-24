@@ -1,0 +1,23 @@
+{
+    "AMD Ryzen 7 PRO": 6000,
+    "Intel Celeron": 1500,
+    "Apple M1 Max": 7000,
+    "Intel Pentium Silver": 1800,
+    "AMD Ryzen 5 PRO": 5500,
+    "Apple M2": 6500,
+    "Apple M1": 6000,
+    "AMD Athlon": 2000,
+    "Intel Core i3": 3000,
+    "AMD Ryzen 7": 6500,
+    "Intel Core i5": 5000,
+    "AMD Ryzen 5": 5500,
+    "Intel Core i7": 6000,
+    "Intel Core i9": 7000,
+    "AMD Ryzen 9": 7000,
+    "Apple M1 Pro": 6500,
+    "AMD Ryzen 5 PRO / AMD Ryzen 5 PRO": 5500,
+    "Intel Core i5 / Intel Core i5": 5000,
+    "AMD Ryzen 3": 4500,
+    "Intel Pentium": 1600,
+    "Intel Pentium Gold": 1700
+}

@@ -1,0 +1,8 @@
+{
+    "eMMC": 2500,
+    "SSD": 6000,
+    "HDD": 4000,
+    "HDD+SSD (Intel Optane Memory)": 5500,
+    "HDD+SSD (отдельный)": 6000,
+    "SSD / SSD": 6000
+}
